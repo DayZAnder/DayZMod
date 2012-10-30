@@ -24,6 +24,7 @@ HOTFIX : 27th OCTOBER 2012
 		* [NEW] 	Vehicle repair menus will now let you know the exact item you need to repair on failed repair attempts.
 		* [FIXED] 	Vehicle Damage is now fully working.
 		* [FIXED] 	Vehicle Killed is now in effect fully destroyed vehilces will now set corret in db.
+		* [FIXED]	Offroad now spawns properly. It was previously disabled.
 		* [FIXED] 	Tents Now add and remove from db.
 		* [FIXED] 	Food can no longer be consumed if the player does not have in inventory.
 		* [FIXED] 	water can no longer be consumed if the player does not have in inventory.
